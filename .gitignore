@@ -1,0 +1,5 @@
+*.log
+*.seed
+*.sid
+coverage
+node_modules
